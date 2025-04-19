@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.ino": "arduino",
+        "random": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "iostream": "cpp"
+    }
+}
